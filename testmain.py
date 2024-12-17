@@ -1,5 +1,5 @@
 import unittest
-from main import Ordering_system, Restaurant, Order, Payment, Customer, Delivery_guy, Menu
+from main import Ordering_system, Restaurant, Payment, Customer, Delivery_guy, Menu
 
 class TestOrderingSystem(unittest.TestCase):
 
